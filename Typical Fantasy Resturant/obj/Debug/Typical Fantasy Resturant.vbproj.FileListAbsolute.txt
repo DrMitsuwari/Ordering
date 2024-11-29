@@ -1,0 +1,18 @@
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\bin\Debug\Typical Fantasy Resturant.exe.config
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\bin\Debug\Typical Fantasy Resturant.exe
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\bin\Debug\Typical Fantasy Resturant.pdb
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\bin\Debug\Typical Fantasy Resturant.xml
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\obj\Debug\Typical Fantasy Resturant.vbproj.AssemblyReference.cache
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\obj\Debug\Typical_Fantasy_Resturant.Resources.resources
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\obj\Debug\Typical Fantasy Resturant.vbproj.GenerateResource.cache
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\obj\Debug\Typical Fantasy Resturant.vbproj.CoreCompileInputs.cache
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\obj\Debug\Typical Fantasy Resturant.exe
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\obj\Debug\Typical Fantasy Resturant.xml
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\obj\Debug\Typical Fantasy Resturant.pdb
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\obj\Debug\Typical_Fantasy_Resturant.Dessert.resources
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\obj\Debug\Typical_Fantasy_Resturant.Menu1.resources
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\obj\Debug\Typical_Fantasy_Resturant.Side.resources
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\obj\Debug\Typical_Fantasy_Resturant.Special.resources
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\obj\Debug\Typical_Fantasy_Resturant.OrderList.resources
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\obj\Debug\Typical_Fantasy_Resturant.Main.resources
+C:\Users\elija\source\repos\Typical Fantasy Resturant\Typical Fantasy Resturant\obj\Debug\Typical_Fantasy_Resturant.ComfirmOrder.resources

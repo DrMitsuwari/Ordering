@@ -1,0 +1,191 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Typical Fantasy Resturant
+</name>
+</assembly>
+<members>
+<member name="T:Typical_Fantasy_Resturant.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Dessert_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Dessert_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Dessert_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Dessert_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Dessert_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Dessert_6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.fl_paper2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.fl_paper21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Main">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Main_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Main_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Main_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Main_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Main_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Main_6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.MainBackground">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Pastries_and_Sweets">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Side">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Side_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Side_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Side_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Side_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Side_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Side_6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Special">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Special_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Special_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Special_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Special_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Special_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Special_6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Typical_Fantasy_Resturant.My.Resources.Resources.Wood">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
